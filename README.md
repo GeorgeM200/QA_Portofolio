@@ -2,7 +2,7 @@
 
 Welcome to my QA Engineer portfolio repository! Here you will find a collection of my work as a QA Engineer, showcasing my skills and experience in various testing domains.
 
-**Technology Stack**
+**Technology Stack** 
 Cypress
 Playwright
 Selenium
