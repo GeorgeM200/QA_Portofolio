@@ -1,4 +1,12 @@
-| Header1 | Header2 |
+| Test Plan ID | Description | Objectives | Test Items | Features to be Tested | Features not to be Tested | Test Techniques | Testing Tasks | Test Deliverables |
 |---------|---------|
-| Row1    | Row1    |
-| Row2    | Row2    |
+| TP 01   | Test User Login | Ensure correct user login functionality | User login page | Password recovery | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 02   | Test User Registration | Ensure correct user registration functionality | User registration page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 03   | Test Search Functionality | Ensure correct search functionality | Search function | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 04   | Test Product Display | Ensure products are correctly displayed | Product page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 05   | Test Checkout Process | Ensure correct checkout functionality | Checkout page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 06   | Test User Profile Update | Ensure correct profile update functionality | User profile page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 07   | Test Password Recovery | Ensure correct password recovery functionality | Password recovery page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 08   | Test Product Review Submission | Ensure correct review submission functionality | Product review section | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 09   | Test Cart Functionality | Ensure correct cart functionality | Cart page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
+| TP 10   | Test Payment Process | Ensure correct payment process | Payment page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
