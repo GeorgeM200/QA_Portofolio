@@ -1,5 +1,5 @@
 | Test Plan ID | Description | Objectives | Test Items | Features to be Tested | Features not to be Tested | Test Techniques | Testing Tasks | Test Deliverables |
-|---------|---------|
+|--------------|-------------|------------|------------|-----------------------|---------------------------|-----------------|---------------|-------------------|
 | TP 01   | Test User Login | Ensure correct user login functionality | User login page | Password recovery | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
 | TP 02   | Test User Registration | Ensure correct user registration functionality | User registration page | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
 | TP 03   | Test Search Functionality | Ensure correct search functionality | Search function | N/A | Boundary Value Analysis, Equivalence Partitioning | Prepare test cases, Execute test cases, Log defects | Test cases, Test data, Defect report |
